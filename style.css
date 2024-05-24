@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #000000;
+    border: 1px solid #ddd;
+    box-shadow: 0px 0px 10px
+    rgba (0,0,0,0.1);
+}
+
+header {
+    background-color: #333;
+    color: #f7f7f7;
+    padding: 10px;
+}
+
+header h1 {
+    font-size: 24px;
+}
+
+
+header p {
+    font-size: 16px;
+}
+
+.summary {
+    padding: 20px;
+    background-color: #333;
+    color: #f7f7f7;
+    padding: 10px;
+}
+
+.summary h2 {
+    font-size: 18px;
+}
+
+.education {
+    padding: 20px;
+}
+
+.education ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.education li {
+    padding-bottom: 10px;
+}
+
+.education li strong {
+    font-weight: bold;
+}
+
+.experience {
+    padding: 20px;
+}
+
+.experience ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.experience li {
+    padding-bottom: 20x;
+}
+
+.experience li strong {
+    font-weight: bold;
+}
+
+.skills {
+padding: 20px;    
+}
+
+.skills ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.skills li {
+    padding-bottom: 10px;
+}
+
+.skills li strong {
+    font-weight: bold;
+}
+
+.contact {
+    padding: 20px;
+}
+
+.contact ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.contact li {
+    padding-bottom: 10px;
+}
+
+.alnog {
+    width: 150px;
+    border-radius: 50%;
+    
+}
